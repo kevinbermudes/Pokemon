@@ -1,0 +1,10 @@
+## Datos de conexión a la base de datos
+
+database.url = jdbc:sqlite
+database.port= 3306
+database.name = Pokemon
+database.connetionUrl = jdbc:sqlite:Pokemon.db
+database.driver= org.sqlite.JDBC
+#database.username = sa
+#database.password =
+database.initDatabase = true
